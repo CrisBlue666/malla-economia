@@ -1,2 +1,2 @@
 # malla-economia
-Malla curricular interactiva de Economía
+Malla curricular de Economía PUCP
